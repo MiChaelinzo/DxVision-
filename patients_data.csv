@@ -1,0 +1,5 @@
+patient_id,name,age,gender,medical_history
+1,John Doe,35,Male,"Asthma, Hypertension"
+2,Jane Smith,28,Female,"None"
+3,Peter Jones,62,Male,"Diabetes, Heart Disease"
+4,Alice Brown,45,Female,"Hypothyroidism"
