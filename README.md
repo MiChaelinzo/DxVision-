@@ -1,7 +1,7 @@
 # DxVision-
 DxVision is an innovative platform leveraging cutting-edge AI to transform medical diagnostics. Our mission is to enhance the accuracy and efficiency of diagnostic procedures.
 
-### Ethical considerations limits
+### Safety and ethical considerations limits
 <img width="478" alt="Screenshot 2024-05-05 004643" src="https://github.com/MiChaelinzo/DxVision-/assets/68110223/05a89283-8633-46e9-aedc-f9437a3118c7">
 
 ICON:
